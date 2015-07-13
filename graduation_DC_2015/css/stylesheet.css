@@ -1,0 +1,179 @@
+.navbar-inverse {
+  background-color: #fff;
+  border-bottom: #dbdbdb 1px solid;
+}
+
+div.container.portfolio {
+	margin-top: 237px;
+}
+
+div.rownav {
+	margin-top: 40px;
+	margin-bottom: 16px;
+}
+
+div.rownav2 {
+	margin-bottom: 15px;
+}
+
+.page-header {
+  border: none;
+}
+
+h3{
+	/*font-family: 'knockout_htf26-juniorflyweiRg';*/
+	font-weight: normal;
+  font-style: normal;
+}
+
+/*div.centrado {
+	  text-align: center;
+}*/
+
+div>h6 {
+	text-align: center;
+	margin-top: 13px;
+}
+
+body {
+	overflow-x: hidden;
+}
+
+img.logo {
+  margin-top: -38px;
+  height: auto;
+  margin-left: -26px;
+  width: 200px;
+}
+
+img.grande {
+  margin-left: -25px;
+  width: 184px;
+  margin-top: -104px;
+}
+
+/*Hover*/
+
+.thumbnail {
+    position:relative; 
+    overflow:hidden;
+    border: none;
+    padding: 0;
+    border-radius: 0;
+}
+ 
+.caption {
+    position:absolute;
+    top:-100%;
+    right:0;
+    background:rgba(251, 237, 33, 0.70);
+    width:100%;
+    height:100%;
+    padding:2%;
+    text-align:center;
+    color:#fff !important;
+    z-index:2;
+    
+}
+.thumbnail:hover .caption {
+    top:0%;
+}
+
+a {
+	text-decoration: none; !important;
+	color: #000;
+}
+
+a:hover {
+	color: #000;
+	text-decoration: underline;
+}
+   
+.bajar {
+	margin-top: 70px;
+}
+
+.bajar2 {
+  margin-top: 16px;
+}
+
+
+/*Hover2*/
+
+.thumbnail {
+    position:relative; 
+    overflow:hidden;
+    border: none;
+    padding: 0;
+    border-radius: 0;
+}
+ 
+.caption {
+    position:absolute;
+    top:-100%;
+    right:0;
+    background:rgba(251, 237, 33, 0.70);
+    width:100%;
+    height:100%;
+    padding:2%;
+    text-align:center;
+    color:#fff !important;
+    z-index:2;
+    
+}
+.thumbnail:hover .caption {
+    top:0%;
+}
+
+a {
+  text-decoration: none; !important;
+  color: #000;
+}
+
+a:hover {
+  color: #000;
+  text-decoration: underline;
+}
+   
+.bajar {
+  margin-top: 70px;
+}
+/*Fancybox*/
+
+.fancybox-image {
+    margin-bottom: 100px;
+    margin-left: -245px;
+    height: auto;
+    width: 800px;
+}
+
+/*Texto*/
+
+p {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h3.tipo>a {
+  font-family: 'Oswald', sans-serif;
+  font-size: 20px;
+}
+
+h1 {
+  font-family: 'Oswald', sans-serif;
+  text-transform: uppercase;
+  font-size: 3em;
+}
+
+a {
+  font-family: 'Oswald', sans-serif;
+  font-size: 20px;
+}
+
+h1>p {
+  font-family: 'Oswald', sans-serif;
+  font-size: 28px;
+}
+
+p>small {
+ text-transform: none; 
+}
